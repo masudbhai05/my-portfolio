@@ -70,6 +70,7 @@ p{
 
 .my-plan-flexible{
     display: flex;
+    margin: 40px 0;
     
     
 }
@@ -98,6 +99,17 @@ p{
     background-color: #dcc3ec;
 }
 
+/*This is the get online section CSS*/
+.box-container{
+    width: 60%;
+    background-color: #ffffff;
+    padding: 30px;
+    margin-left: 60px;
+    border-radius: 10px;
+    box-shadow: 10px 4px 20px #d1d1d1;
+}
+
+
 /*This is the footer section CSS*/
 footer{
     color: #ffffff;
@@ -112,3 +124,4 @@ footer h1{
 #footer-text-color{
     color: #72B626;
 }
+
